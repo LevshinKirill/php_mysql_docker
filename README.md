@@ -4,7 +4,7 @@
 
 ### Description
 
-The application includes a php and mysql to work with docker and docker-copmose.
+The application includes a php and mysql to work with docker and docker-compose.
 
 ## How to start the application
 
